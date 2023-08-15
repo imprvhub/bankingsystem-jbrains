@@ -3,7 +3,6 @@
 # Graduate Project Completed By Iván Luna, August 15, 2023
 # For Hyperskill (Jet Brains Academy). Course: SQL With Python
 
-
 import random
 import sqlite3
 
